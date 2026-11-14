@@ -1,0 +1,22 @@
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Secrets and credentials (never commit these)
+.env
+*.key
+credentials.json
+
+# Datasets and application logs
+*.csv
+*.log
+*.parquet
+data/
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
