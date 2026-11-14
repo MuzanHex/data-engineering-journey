@@ -17,6 +17,7 @@ My goal is to grow into a skilled data engineer by practicing Linux, Python, SQL
 ## Tools & Skills
 
 - Linux and Bash
+- Git and GitHub: commits, branching, pull requests, and merges
 - Inspecting CSV files and application logs
 - Basic log filtering, counting, and date-wise grouping
 
